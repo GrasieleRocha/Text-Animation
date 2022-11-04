@@ -11,7 +11,7 @@ CSS <br>
 
 ## 🚀 App no ar
 
-App no ar: 
+App no ar: https://textanimation1.netlify.app <br>
 tutorial:https://www.youtube.com/watch?v=4PbgtyE0mGs
 
 
